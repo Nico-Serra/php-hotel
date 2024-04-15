@@ -52,7 +52,7 @@ $hotels = [
 
 ];
 
-var_dump($_GET);
+//var_dump($_GET);
 
 $newHotels = [];
 
@@ -63,7 +63,7 @@ for ($i = 0; $i < count($hotels); $i++) {
     }
 };
 
-var_dump($newHotels)
+//var_dump($newHotels)
 
 ?>
 
